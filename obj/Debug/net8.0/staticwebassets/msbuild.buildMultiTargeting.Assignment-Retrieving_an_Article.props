@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assignment-Retrieving_an_Article.props" />
+</Project>

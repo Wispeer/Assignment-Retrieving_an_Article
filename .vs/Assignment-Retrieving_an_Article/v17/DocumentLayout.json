@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Private projects\\Assignment-Retrieving_an_Article\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\models\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:models\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\tests\\articlescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:tests\\articlescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\tests\\inmemorydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:tests\\inmemorydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\assignment-retrieving_an_article.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:assignment-retrieving_an_article.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|d:\\private projects\\assignment-retrieving_an_article\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{002D3E0D-2F50-4CBE-95FD-31908E870AA8}|Assignment-Retrieving_an_Article.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:27:09.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:26:57.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:16:33.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:36:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Tests\\InMemoryDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Tests\\InMemoryDbContextFactory.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Tests\\InMemoryDbContextFactory.cs",
+              "RelativeToolTip": "Tests\\InMemoryDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:25:00.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:34:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleDto.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\ArticleDto.cs",
+              "RelativeDocumentMoniker": "Models\\ArticleDto.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\ArticleDto.cs",
+              "RelativeToolTip": "Models\\ArticleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:31:28.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDto.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:34:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:45:56.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticlesControllerTests.cs",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Tests\\ArticlesControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ArticlesControllerTests.cs",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Tests\\ArticlesControllerTests.cs",
+              "RelativeToolTip": "Tests\\ArticlesControllerTests.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:26:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T13:24:13.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assignment-Retrieving_an_Article",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Assignment-Retrieving_an_Article.csproj",
+              "RelativeDocumentMoniker": "Assignment-Retrieving_an_Article.csproj",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\Assignment-Retrieving_an_Article.csproj",
+              "RelativeToolTip": "Assignment-Retrieving_an_Article.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T09:16:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Private projects\\Assignment-Retrieving_an_Article\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Private projects\\Assignment-Retrieving_an_Article\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:14:14.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
